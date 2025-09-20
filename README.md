@@ -78,6 +78,7 @@ A modular, time-limited event framework for Unity games. Designed to support mul
 
 ## 🧪 Testing Strategy
 
+- Star Event activates Monday–Wednesday
 - Blaze Event activates Thursday–Sunday
 - Progress persists across sessions
 - Word validation blocks duplicates
