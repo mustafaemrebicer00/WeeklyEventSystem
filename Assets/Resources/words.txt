@@ -1,0 +1,10 @@
+cat
+dog
+star
+moon
+fire
+shine
+light
+nova
+sky
+dream
