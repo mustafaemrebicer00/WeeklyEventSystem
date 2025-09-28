@@ -120,4 +120,3 @@ Assets/ ├── Scripts/ │   ├── EventSystem/ │   ├── GameLogi
 Developed by **Mustafa Emre Biçer**  
 Role: Indie Game Developer, Technical Architect  
 Email: hexmort@hexmort.com
-GitHub: [github.com/mustafaemrebicer00](https://github.com/mustafaemrebicer00)
